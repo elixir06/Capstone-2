@@ -4,7 +4,7 @@ Supermarket Mona operates in a competitive market, offering a diverse range of p
 - demographic information
 - purchase history across products
 - customer preferred channel
-- campaign acceptance historySupermarket Customers Data Dictionary
+- campaign acceptance history
 
 # Business Problem
 
@@ -58,3 +58,7 @@ Place
 
 
 Conclusion : Customer base are divided into income segment (low and medium, and high) and product preferences sub-segments (level 1 to 4, focussing only on level 2 and 3). Sales strategies are formulated specially for each segments , totalling to 24 distinct sales strategies.
+
+Dashboard link (please use full screen mode) : https://public.tableau.com/app/profile/christian.manan/viz/capstone2dashboard_17176048727760/Maindashboard
+
+Tableau story link (please use full screen mode) : https://public.tableau.com/app/profile/christian.manan/viz/capstone2story/Mainstory?publish=yes
