@@ -1,5 +1,26 @@
-Supermarket Customers Data Dictionary
+# Business Background
 
+Supermarket Mona operates in a competitive market, offering a diverse range of products from everyday groceries to premium items like wines and gold products. The following dataset represents customer engagement for a supermarket over the last 2 years. The data includes :
+- demographic information
+- purchase history across products
+- customer preferred channel
+- campaign acceptance historySupermarket Customers Data Dictionary
+
+# Business Problem
+
+The primary business problem is how to find the best approach to optimize sales strategies, which includes how to tailor discounts, premium services, etc to match the right customer. The next step is to find which customer will be the most receptive to which strategies. By leveraging the data-driven insights, the supermarket will have increased chance of successfully executing the sales strategies and yield good response from customers, thus increasing sales.
+
+# Data Analysis Objective 
+
+The objective of this data analysis is to clean and analyze the supermarket's customer data to gain insights into customer segments and their shopping behaviors. The focus will be on:
+- Data cleaning (filling or removing null values , allocating ambiguous data, adding summary collumns, etc)
+- Visualization with tableau
+
+In which the ultimate goal is to hopefully INCREASE SALES. The strategies are :
+- Segmenting the customer base in categories (Income and product preferences)
+- Recommending deals and promotions for each segment to maximize the supermarket's resources efficiency
+
+Data Dictionary : 
 People
 - ID: Customer's unique identifier
 - Year_Birth: Customer's birth year
@@ -34,3 +55,6 @@ Place
 - NumCatalogPurchases: Number of purchases made using a catalog
 - NumStorePurchases: Number of purchases made directly in stores
 - NumWebVisitsMonth: Number of visits to the company’s website in the last month
+
+
+Conclusion : Customer base are divided into income segment (low and medium, and high) and product preferences sub-segments (level 1 to 4, focussing only on level 2 and 3). Sales strategies are formulated specially for each segments , totalling to 24 distinct sales strategies.
